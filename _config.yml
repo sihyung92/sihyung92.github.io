@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -24,8 +24,8 @@ description              : ""
 url                      : "https://sihyung92.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sihyung92/sihyung92.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/images/backgroundimage.jfif # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     :  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -110,8 +110,8 @@ analytics:
 # Site Author
 author:
   name             : "성시형"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나는**어메이징** 사람."
+  avatar           : /assets/images/sihyungsanso.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "멈추지 않기!"
   location         : "경기도 군포시 거주"
   email            : "fjzjqhdl@gmail.com"
   links:
@@ -129,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sihyung92"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
