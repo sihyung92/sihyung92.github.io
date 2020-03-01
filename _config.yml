@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Sung's Notepad"
+title                    : "Shong's Notepad"
 title_separator          : "-"
-subtitle                 : "난 메모장이 제일 좋더라"
-name                     : "성시형"
+subtitle                 : "숑의 개발자 노트"
+name                     : "숑"
 description              : ""
 url                      : "https://sihyung92.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sihyung92/sihyung92.github.io"
-teaser                   : /assets/images/backgroundimage.jfif # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  # /assets/images/backgroundimage.jfif # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     :  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
