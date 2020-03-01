@@ -101,15 +101,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-159362538-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "성시형"
+  name             : "숑"
   avatar           : /assets/images/sihyungsanso.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "멈추지 않기!"
   location         : "경기도 군포시 거주"
